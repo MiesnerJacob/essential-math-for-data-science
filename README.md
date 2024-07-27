@@ -6,7 +6,7 @@ Welcome to my Essential Math for Data Science repository! This collection of Pyt
 
 ## Chapters
 * [01: Basic Math and Calculus Reivew](01-basic-math-and-calculus-review.ipynb)
-* 02: Probability
+* [02: Probability](02-probability.ipynb)
 * 03: Descriptive and Inferential Statistics
 * 04: Linear Algebra
 * 05: Linear Regression
