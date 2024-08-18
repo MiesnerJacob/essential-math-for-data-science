@@ -11,4 +11,4 @@ Welcome to my Essential Math for Data Science repository! This collection of Pyt
 * [04: Linear Algebra](04-linear-algebra.ipynb)
 * [05: Linear Regression](05-linear-regression.ipynb)
 * [06: Logistic Regression and Classification](06-logistic-regression.ipynb)
-* 07: Neural Networks
+* [07: Neural Networks](07-neural-networks.ipynb)
