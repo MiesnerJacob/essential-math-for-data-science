@@ -13,3 +13,4 @@ Welcome to my Essential Math for Data Science repository! This collection of Pyt
 * [06: Logistic Regression and Classification](06-logistic-regression.ipynb)
 * [07: Neural Networks](07-neural-networks.ipynb)
 * [08: Career Advice and the Path Moving Forward](08-career-advice-and-the-path-forward.ipynb)
+* [09: Appendix A: Supplumental Topics](09-appendix-a-supplumental-topics.ipynb)
